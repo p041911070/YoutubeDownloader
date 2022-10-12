@@ -1,3 +1,11 @@
+### v1.9.4 (16-Sep-2022)
+
+- Fixed various YouTube-related issues. Updated to YoutubeExplode v6.2.2.
+
+### v1.9.3 (29-Jun-2022)
+
+- Added support for looking up channels by user page URLs (e.g. https://www.youtube.com/user/BlenderFoundation) and custom channel URLs (e.g. https://www.youtube.com/c/BlenderFoundation).
+
 ### v1.9.2 (16-Apr-2022)
 
 - Fixed various YouTube-related issues. Updated to YoutubeExplode v6.1.2.
@@ -16,7 +24,8 @@
 - Removed the "excluded formats" option due to low usefulness.
 - Fixed an issue which occasionally prevented video thumbnails from being injected into video files properly.
 
-⚠ Warning: some settings may be lost when upgrading from v1.8.x.
+> **Warning**:
+> Some settings may be lost when upgrading from v1.8.x.
 
 ### v1.8.7 (07-Mar-2022)
 
